@@ -1,0 +1,11 @@
+Blods, trees e commits.
+
+Commits apontam para trees ou outros commits.
+Trees apontam para blods ou outras trees.
+
+
+Trees identificam um conjunto de arquivos.
+Commits identificam autor/commiter, mensagem commit, tree, data, hora.
+
+
+Commit -> tree -> blob

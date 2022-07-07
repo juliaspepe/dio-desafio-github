@@ -1,0 +1,31 @@
+Windows
+dir (listar)
+cd / (chance directory)
+cd .. (retroceder)
+cls (limpar tela) 
+*tecla* TAB (autocompleta)
+mkdir (criar pasta)
+echo (comando para printar uma frase no terminal)
+ex.: echo hello > hello.txt (> = redirecionador = cria um arquivo na pasta desejada)
+del (deletar arquivo)
+rmdir /S /Q (remova pasta)
+
+Unix (linux e IOS)
+ls (listar)
+cd / ou cd etc (chance directory)
+cd .. (retroceder)
+clear ou CRT + L (limpar tela) 
+*tecla* TAB (autocompleta)
+mkdir (criar pasta)
+echo (comando para printar uma frase no terminal)
+ex.: echo hello > hello.txt (> = redirecionador = cria um arquivo na pasta desejada)
+del (deletar arquivo)
+rm-rf (remova pasta)
+
+para iniciar o repositório do git: git init
+para mover arquivos: git add .
+para criar o commit: git commit -m
+para "empurrar" o commit: git push
+para "puxar" o commit: git pull
+para verificar o status: git status
+para pegar repositório do GitHub e jogar no git: git clone
