@@ -29,3 +29,9 @@ para "empurrar" o commit: git push
 para "puxar" o commit: git pull
 para verificar o status: git status
 para pegar repositório do GitHub e jogar no git: git clone
+
+Passo a passo:
+git init
+git add .
+git commit -m
+git push origin main
